@@ -8,6 +8,6 @@
 
 ## Compilar y ejecutar:
 
-> • Compilar: Abre la terminal integrada de VS Code y ejecuta el comando `tsc actividad1.ts`. Esto generará un archivo .js correspondiente.
+> **• Compilar:** Abre la terminal integrada de VS Code y ejecuta el comando `tsc actividad1.ts`. Esto generará un archivo .js correspondiente.
 
-> • Ejecutar: Si tu archivo .ts es un script de Node.js, puedes ejecutar el archivo .js generado con el comando `node actividad.js`.
+> **• Ejecutar:** Si tu archivo .ts es un script de Node.js, puedes ejecutar el archivo .js generado con el comando `node actividad.js`.
